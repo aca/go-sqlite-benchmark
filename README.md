@@ -3,7 +3,7 @@
 Benchmark of the SQLite3 database driver for Go.
 Testcase is designed for my personal use cases.
 
-# Insert 1000 rows into a table
+### Insert 1000 rows into a table
 
 ```
 goos: linux
